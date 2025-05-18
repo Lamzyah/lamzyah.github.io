@@ -2496,6 +2496,21 @@ main {
       }
     }
 
+    .home {
+      height: 100%;
+      width: 100%;
+    
+      background-color: hsla(200, 40%, 30%, 0.4);
+      background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+        url('https://i.redd.it/4vfjr9e1wuey.gif');
+      background-size: cover;
+      background-position: center;
+    }
+    
+    
+
+
 .homes
 {
     display: flex;
@@ -3993,7 +4008,7 @@ margin-top: 4rem;
 
 .about-img .img-about {
 width : 26vw;
-height: 15vh;
+height: 14vh;
 margin-top: -25%;
 position: absolute;
 margin-left: 30%;
